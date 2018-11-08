@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+p{
+    text-align: center;
+    padding-top: auto;
+    padding-bottom: auto;
+    color:#eee;
+    font-weight: 800;
+}
+.container{
+    max-width: 1200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
+.row{
+    width: 100%;
+    height: auto;
+}
+.col-1{
+    width: 8.3333%;
+    float: left;
+}
+.col-2{
+    width: 16.67%;
+    float: left;
+}
+.col-3{
+    width:25%;
+    float: left;
+}
+.col-4{
+    width: 33.33%;
+    float: left;
+   
+}
+.col-5{
+    width: 41.67%;
+    float: left;
+}
+.col-6{
+    width: 50%;
+    float: left;
+}
+.col-7{
+    width: 58.33%;
+    float: left;
+}
+.col-8{
+    width: 66.64%;
+    float: left;
+}
+.col-9{
+    width: 75%;
+    float: left;
+}
+.col-10{
+    width: 83.33%;
+    float: left;
+}
+.col-11{
+    width: 91.66%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.color{
+    max-width: 100%;
+    height: 100px;
+    background-color: #1D89E4;
+    margin: 3px;
+}
+.title{
+    height: 50px;
+}
+.buy-box{
+    height: 195px;
+}
+.gallery{
+    height:262px;
+}
+.margin-height{
+    height: 500px;
+}
+
+
+
